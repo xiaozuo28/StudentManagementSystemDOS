@@ -14,8 +14,7 @@ StudentManagementSystemDOS
 版本：JDK1.8
 
 #### 三、系统界面
-![系统界面.png](https://note.youdao.com/yws/res/6/WEBRESOURCE6fbb07b5493736e3a24c75011da0e086)
-
+[![系统界面.png](https://s1.ax1x.com/2022/12/10/zWctp9.png)](https://imgse.com/i/zWctp9)
 #### 四、系统功能
 
 ##### 1、登录模块
